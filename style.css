@@ -1,0 +1,4 @@
+body{font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans",sans-serif;max-width:720px;margin:0 auto;padding:32px 20px;line-height:1.8;color:#222}
+h1{font-size:1.6rem}h2{font-size:1.2rem;margin-top:2em}
+a{color:#6b4fd8}
+@media(prefers-color-scheme:dark){body{background:#1c1c1e;color:#eee}a{color:#b9a6ff}}
